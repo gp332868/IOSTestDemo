@@ -20,12 +20,15 @@
     label.backgroundColor = [UIColor orangeColor];
     [self.view addSubview:label];
     label.textColor = [UIColor greenColor];
-
-    int value = 4;
+    NSLog(@"sssss");
+    
+    int value = 6;
     for (int i = 0; i<10; i++) {
         
-        value += i;
+        value += i+1;
     }
+
+
     // Do any additional setup after loading the view.
 }
 
