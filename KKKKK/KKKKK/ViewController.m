@@ -21,6 +21,13 @@
     [self.view addSubview:label];
     label.textColor = [UIColor greenColor];
     NSLog(@"sssss");
+    
+    int value = 6;
+    for (int i = 0; i<10; i++) {
+        
+        value += i+1;
+    }
+
     // Do any additional setup after loading the view.
 }
 
