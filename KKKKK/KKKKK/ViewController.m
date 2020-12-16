@@ -24,7 +24,7 @@
     
     int value = 6;
     for (int i = 0; i<10; i++) {
-        
+        NSLog(@"ssssss");
         value += i+1;
     }
 
