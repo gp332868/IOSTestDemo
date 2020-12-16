@@ -25,6 +25,7 @@
     int value = 6;
     for (int i = 0; i<10; i++) {
         NSLog(@"ssssss");
+        NSLog(@"12345");
         value += i+1;
     }
 
