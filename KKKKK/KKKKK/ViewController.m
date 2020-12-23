@@ -23,11 +23,12 @@
     NSLog(@"sssss");
     
     int value = 6;
-    for (int i = 0; i<10; i++) {
+    for (int k = 0; k<10; k++) {
         NSLog(@"ssssss");
         NSLog(@"12345");
-        NSLog(@"3333");
-        value += i+1;
+        NSLog(@"密密麻麻所木木");
+        value += k+1;
+
     }
 
 
