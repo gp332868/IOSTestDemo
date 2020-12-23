@@ -26,7 +26,7 @@
     for (int i = 0; i<10; i++) {
         NSLog(@"ssssss");
         NSLog(@"12345");
-      
+        NSLog(@"密密麻麻所木木");
         value += i+1;
     }
 
